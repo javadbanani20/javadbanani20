@@ -1,4 +1,4 @@
-- 👋 Hi guys, I am JAvad Banani
+- 👋 Hi guys, I am Javad Banani
 - 🌱 I’m currently learning Web programming
 - 📫 How to reach me javadbanani79@gmail.com
 - 👨‍💻 All of my projects are available at https://github.com/javadbanani20
